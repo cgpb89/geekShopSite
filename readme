@@ -1,0 +1,4 @@
+To initialize the site:
+1 - Install the Chrome extension 'Allow-Control-Allow-Origin'
+2 - Open the command promt and write; yarn install to download all the modules.
+3 - Then write yarn run dev to see the port. Then write in yopur browser http://localhost:PORT/users/ => http://localhost:8080/users/
